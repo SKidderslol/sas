@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SKidderslol/2/main/README.md",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SKidderslol/s2/main/README.md",true))()
